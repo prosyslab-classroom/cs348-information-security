@@ -10,7 +10,8 @@ This course includes programming assignments through which students will learn h
 Make sure you have a Github account and get the [student developer pack benefits](https://education.github.com/pack).
 Moreover, student should get familiar with `git`.
 If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
-All submissions will be managed using Github.
+
+- All submissions will be managed using Github.
 For each assignment, a unique invitation URL for Github Classroom will be posted in this page.
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
