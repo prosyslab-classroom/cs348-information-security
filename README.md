@@ -2,6 +2,7 @@
 
 This is the Github repository for CS448 at KAIST.
 For the details of the course, visit the [course webpage](https://sites.google.com/view/cs448/home).
+Announcements and QnA will be posted in the [issue board](https://github.com/prosyslab-classroom/cs448-2021-spring/issues).
 
 ## Homework
 This course includes written and programming assignments.
@@ -18,7 +19,7 @@ The late homework policy is as follows:
   - You are given 5 “grace days” (self-granted extensions) which you can use to give yourself extra time without penalty
   - Late work handed in when you have run out of grace is discounted 30 % per day late
 
-- Students will use the [OCaml](https://ocaml.org) programming language for the assignments. For more details of OCaml, see the following meterials:
+- Students will use the [OCaml](https://ocaml.org) programming language for the software security assignments. For more details of OCaml, see the following meterials:
   #### OCaml Tutorial
   - [Functional Programming in OCaml (Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
   #### OCaml Book
