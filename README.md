@@ -16,8 +16,8 @@ If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
 The late homework policy is as follows:
-  - You are given 5 “grace days” (self-granted extensions) which you can use to give yourself extra time without penalty
-  - Late work handed in when you have run out of grace is discounted 30 % per day late
+  - You are given 5 “grace days” (extra time without any penalty)
+  - Once you have run out of grace, late submissions will be discounted 30% per day
 
 - Students will use the [OCaml](https://ocaml.org) programming language for the software security assignments. For more details of OCaml, see the following meterials:
   #### OCaml Tutorial
