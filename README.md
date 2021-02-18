@@ -6,6 +6,7 @@ Announcements and QnA will be posted in the [issue board](https://github.com/pro
 
 ## Homework
 This course includes written and programming assignments.
+Students will use a few tools which are described below.
 
 ### Git, Github, and Github Classroom
 We will use Github/Github Classroom to provide assignment templates and manage submissions.
@@ -24,6 +25,7 @@ The late homework policy is as follows:
 Students will use the [OCaml](https://ocaml.org) programming language for the software security assignments. For more details of OCaml, see the following meterials:
   #### OCaml Tutorial
   - [Functional Programming in OCaml (Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+  - [OCaml Tutorial Videos](https://www.youtube.com/watch?v=xTsHMja8joA&list=PLPGcR5TG6arH6hk04YnAsMbYmQvBqwFdw)
   #### OCaml Book
   - [Real World OCaml](https://dev.realworldocaml.org/index.html)
   #### Why OCaml?
