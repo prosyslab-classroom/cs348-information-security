@@ -24,7 +24,8 @@ The late homework policy is as follows:
 ### OCaml
 Students will use the [OCaml](https://ocaml.org) programming language for the software security assignments. For more details of OCaml, see the following meterials:
   #### OCaml Tutorial
-  - [Functional Programming in OCaml (Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+  - [Functional Programming in OCaml (simple version)](slides/ocaml-tutorial.pdf)
+  - [Functional Programming in OCaml (detailed version from Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
   - [OCaml Tutorial Videos](https://www.youtube.com/watch?v=xTsHMja8joA&list=PLPGcR5TG6arH6hk04YnAsMbYmQvBqwFdw)
   #### OCaml Book
   - [Real World OCaml](https://dev.realworldocaml.org/index.html)
