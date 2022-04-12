@@ -12,4 +12,15 @@ For each assignment, a unique invitation URL for Github Classroom will be posted
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
 
-##
+## Schedule
+|Week|Topics|Reading|Homework|
+|-|------|-------|--------|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||
+|9|[Access Control](slides/lecture14.pdf)|||
+|10|Web Security|||
+|11|Software Vulnerabilities|||
+|12|Secure Software|||
+|13|Program Analysis|||
+|14|Fuzzing and Dynamic Analysis|||
+|15|Static Analysis|||
+|16|No Classes (Final week)|||
