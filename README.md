@@ -18,7 +18,7 @@ You can push as many commits as you want before the deadline. We will grade the 
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)|
 |9|[Access Control](slides/lecture14.pdf)||
 |10|[Web Security](slides/lecture15.pdf)|
-|11|Software Vulnerabilities|
+|11|[Software Vulnerabilities](slides/lecture16.pdf)|
 |12|Secure Software|
 |13|Program Analysis|
 |14|Fuzzing and Dynamic Analysis|
