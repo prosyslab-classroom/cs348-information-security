@@ -24,3 +24,6 @@ You can push as many commits as you want before the deadline. We will grade the 
 |14|Fuzzing and Dynamic Analysis|
 |15|Static Analysis|
 |16|No Classes (Final week)|
+
+## Hall of Fame
+See the outstanding achievement of our friends [here](hof.md). 
