@@ -23,7 +23,12 @@ The details of the vulnuerabilities will be disclosed when they are patched.
 |15|Wonjun Lee (이원준)|2022.05.06| CLASSIFIED | +1% of final score + drink|
 |16|Abdirakhman Ismail|2022.05.06| CLASSIFIED | 1 grade up + drink|
 |17|Si Woo Lee (이시우)|2022.05.06| CLASSIFIED | drink |
-|18|Si Woo Lee (이시우)|2022.05.06| CLASSIFIED | drink |
+|18|Murad Aghazada|2022.05.16| CLASSIFIED | drink |
+|19|Jiyeon Kim (김지연)|2022.05.16| CLASSIFIED | +1% of final score + drink |
+|20|Jiyeon Kim (김지연)|2022.05.16| CLASSIFIED | drink |
+|21|Aziz Huseynov|2022.05.16| CLASSIFIED | drink |
+|22|Moon Dongwoo (문동우)|2022.05.16| CLASSIFIED | 1 grade up + drink |
+
 
 
 ### Photos
