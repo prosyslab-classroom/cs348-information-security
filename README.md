@@ -20,7 +20,7 @@ You can push as many commits as you want before the deadline. We will grade the 
 |10|[Web Security](slides/lecture15.pdf)|
 |11|[Software Vulnerabilities](slides/lecture16.pdf)|
 |12|[Safe Programming Systems](slides/lecture17.pdf)|
-|13|Fuzzing and Dynamic Analysis|
+|13|[Fuzzing](slides/lecture18.pdf)|
 |14|Static Analysis (1)|
 |15|Static Analysis (2)|
 |16|No Classes (Final week)|
