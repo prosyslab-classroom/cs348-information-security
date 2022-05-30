@@ -9,13 +9,13 @@ The details of the vulnuerabilities will be disclosed when they are patched.
 |1 |Wonho Shin (신원호)|2022.04.27| CLASSIFIED | 1 grade up + drink|
 |2 |Jun Cho (조준)|2022.04.27| CLASSIFIED | 1 grade up + drink|
 |3 |Seungmin Park (박승민)|2022.04.29| Independently discovered the same as 1 | 1 grade up + drink|
-|4 |Youngcheol Choi (최영철)|2022.05.02| CLASSIFIED | TBD |
+|4 |Youngcheol Choi (최영철)|2022.05.02| CLASSIFIED | 2 grade up |
 |5 |Dhammiko Arya Gandamana|2022.05.02| CLASSIFIED| drink |
 |6 |Dhammiko Arya Gandamana|2022.05.02| CLASSIFIED | drink |
 |7 |Sorn Chottananurak|2022.05.02|Independently discovered the same as 6| drink |
 |8 |Abdirakhman Ismail|2022.05.02|Independently discovered the same as 6| drink |
 |9 |Dongwoo Moon (문동우)|2022.05.02| Independently discovered the same as 2 | 1 grade up + drink |
-|10|Abdirakhman Ismail|2022.05.06| CLASSIFIED | TBD |
+|10|Abdirakhman Ismail|2022.05.06| CLASSIFIED | 1 grade up |
 |11|Abbas Mammadov|2022.05.06| CLASSIFIED | +5% of final score + drink|
 |12|Dhammiko Arya Gandamana|2022.05.06| CLASSIFIED | +1% of final score + drink|
 |13|Woomin Song (송우민)|2022.05.06| CLASSIFIED | drink |
@@ -30,7 +30,7 @@ The details of the vulnuerabilities will be disclosed when they are patched.
 |22|Aziz Huseynov|2022.05.16| CLASSIFIED | drink |
 |23|Moon Dongwoo (문동우)|2022.05.16| CLASSIFIED | 1 grade up + drink |
 |24|Aziz Huseynov|2022.05.20| CLASSIFIED | 3 grade up |
-
+|25|Minhee Kim (김민희)|2022.05.27| CLASSIFIED | drink |
 
 
 ### Photos
