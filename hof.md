@@ -31,6 +31,7 @@ The details of the vulnuerabilities will be disclosed when they are patched.
 |23|Moon Dongwoo (문동우)|2022.05.16| CLASSIFIED | 1 grade up + drink |
 |24|Aziz Huseynov|2022.05.20| CLASSIFIED | 3 grade up |
 |25|Minhee Kim (김민희)|2022.05.27| CLASSIFIED | drink |
+|25|Seungjin Yu (유승진)|2022.05.30| CLASSIFIED | drink |
 
 
 ### Photos
