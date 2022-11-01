@@ -51,3 +51,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 
 ## Hall of Fame
 See the outstanding achievement of our friends [here](hof.md).
+
+## Advanced Course
+- [CS492: Program Reasoning](https://github.com/prosyslab-classroom/cs492-program-reasoning)
+- [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis)
