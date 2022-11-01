@@ -35,4 +35,4 @@ The details of the vulnuerabilities will be disclosed when they are patched.
 
 
 ### Photos
-You can checkout the photos of the awarding sessions in the following album. https://photos.app.goo.gl/kcCZuWpSCfAWB86ZA
+You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/kcCZuWpSCfAWB86ZA). 
