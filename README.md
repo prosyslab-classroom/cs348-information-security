@@ -1,4 +1,4 @@
-# CS348: Introduction to Information Security
+# CS348: Introduction to Information Security (정보보호개론)
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
@@ -11,14 +11,23 @@
   - TAs: TBD
 
 ## Course Description
+This course covers the overall contents of information security. Students will be exposed
+to fundamental concepts in information security including cryptography, system security,
+software security, web security and network security. This course introduces how security
+attacks occur in the modern computing environments. Students will also have opportunities
+to understand techniques to discover and disable such security attacks.
 
 ## Grading
-- Homework 50%
-- Final exam 40%
+- Exam 50%
+- Homework 40%
 - Participation 10%
 
 ## Textbook
 - Lecture slides will be provided
+- Ross Anderson, [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- Paul C. van Oorschot, [Computer Security and the Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
+- Andreas Zeller et al., [The Fuzzing Book](https://www.fuzzingbook.org)
+- Xavier Rival and Kwangkeun Yi, [Introduction to static analysis : an abstract interpretation perspective](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=910257&se=b0&ty=B&_csrf=419dcd43-c1b9-4a69-82da-35f631b8777c)
 
 ## Homework
 This course includes written and programming assignments.
@@ -37,17 +46,23 @@ The late homework policy is as follows:
 Students who violate academic integrity will get F. See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|Week|Topics|
-|-|------|
+|#|Topics|Reference|Homework|
+|-|------|---------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)|
-|9|[Access Control](slides/lecture14.pdf)||
-|10|[Web Security](slides/lecture15.pdf)|
-|11|[Software Vulnerabilities](slides/lecture16.pdf)|
-|12|[Safe Programming Systems](slides/lecture17.pdf)|
-|13|[Fuzzing](slides/lecture18.pdf)|
-|14|[Static Analysis (1)](slides/lecture19.pdf)|
-|15|Static Analysis (2)|
-|16|No Classes (Final week)|
+|1|Introduction||
+|2|Concepts in Security||
+|3|Symmetic-key Encryption||
+|4|Public-key Encryption||
+|5|Authentication||
+|6|Secure Channel||
+|-|Midterm Exam||
+|7|[Access Control](slides/lecture14.pdf)||
+|8|[Web Security](slides/lecture15.pdf)|
+|9|[Software Vulnerabilities](slides/lecture16.pdf)|
+|10|[Safe Programming Systems](slides/lecture17.pdf)|
+|11|[Fuzzing](slides/lecture18.pdf)|
+|12|[Static Analysis](slides/lecture19.pdf)|
+|-|Final Exam||
 
 ## Hall of Fame
 See the outstanding achievement of our friends [here](hof.md).
