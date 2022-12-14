@@ -1,9 +1,9 @@
 # CS348: Introduction to Information Security (정보보호개론)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs348.ta@prosys.kr)
-  - TBD
+  - 
 - Time: Mon/Wed 09:00 - 10:30
 - Location: N1 117
 - Office hour:
@@ -46,22 +46,22 @@ The late homework policy is as follows:
 Students who violate academic integrity will get F. See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|#|Topics|Reference|Homework|
-|-|------|---------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)|
+|#|Topics|Reading|Homework|
+|-|------|-------|--------|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)|HW0: Hello-world, OCaml programming|
 |1|Introduction||
 |2|Concepts in Security||
-|3|Symmetic-key Encryption||
+|3|Symmetic-key Encryption||HW1: Cryptogram Cracker|
 |4|Public-key Encryption||
 |5|Authentication||
 |6|Secure Channel||
 |-|Midterm Exam||
-|7|[Access Control](slides/lecture14.pdf)||
-|8|[Web Security](slides/lecture15.pdf)|
-|9|[Software Vulnerabilities](slides/lecture16.pdf)|
-|10|[Safe Programming Systems](slides/lecture17.pdf)|
-|11|[Fuzzing](slides/lecture18.pdf)|
-|12|[Static Analysis](slides/lecture19.pdf)|
+|7|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HWx: Access Control Verifier|
+|8|[Web Security](slides/lecture15.pdf)|||
+|9|[Software Vulnerabilities](slides/lecture16.pdf)|||
+|10|[Safe Programming Systems](slides/lecture17.pdf)|||
+|11|[Fuzzing](slides/lecture18.pdf)||HWx: Fuzzer|
+|12|[Static Analysis](slides/lecture19.pdf)||HWx: Static Analyzer|
 |-|Final Exam||
 
 ## Hall of Fame
@@ -70,3 +70,7 @@ See the outstanding achievement of our friends [here](hof.md).
 ## Advanced Course
 - [CS492: Program Reasoning](https://github.com/prosyslab-classroom/cs492-program-reasoning)
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis)
+
+## References
+- [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
+- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
