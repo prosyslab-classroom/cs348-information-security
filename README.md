@@ -3,7 +3,7 @@
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
 - TAs (mailing list: cs348.ta@prosys.kr)
-  - 
+  - TBA
 - Time: Mon/Wed 09:00 - 10:30
 - Location: N1 117
 - Office hour:
@@ -48,7 +48,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 ## Schedule
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)|HW0: Hello-world, OCaml programming|
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml programming|
 |1|Introduction||
 |2|Concepts in Security||
 |3|Symmetic-key Encryption||HW1: Cryptogram Cracker|
