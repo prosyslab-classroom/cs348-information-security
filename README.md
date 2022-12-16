@@ -58,7 +58,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |-|Midterm Exam||
 |7|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HWx: Access Control Verifier|
 |8|[Web Security](slides/lecture15.pdf)|||
-|9|[Software Vulnerabilities](slides/lecture16.pdf)|||
+|9|[Software Vulnerabilities](slides/lecture16.pdf)||HWx: Exploitation|
 |10|[Safe Programming Systems](slides/lecture17.pdf)|||
 |11|[Fuzzing](slides/lecture18.pdf)||HWx: Fuzzer|
 |12|[Static Analysis](slides/lecture19.pdf)||HWx: Static Analyzer|
