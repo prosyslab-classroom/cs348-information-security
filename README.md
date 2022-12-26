@@ -51,7 +51,8 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml programming|
 |1|Introduction||
 |2|Concepts in Security||
-|3|Symmetic-key Encryption||HW1: Cryptogram Cracker|
+|3|Classical Cryptography||HW1: Cryptogram Cracker|
+|3|Symmetic-key Encryption||HW2: Mini-AES|
 |4|Public-key Encryption||
 |5|Authentication||
 |6|Secure Channel||
