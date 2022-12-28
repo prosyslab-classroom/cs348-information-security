@@ -1,9 +1,11 @@
 # CS348: Introduction to Information Security (정보보호개론)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
-- TAs (mailing list: cs348.ta@prosys.kr)
-  - TBA
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
+- TAs (mailing list: cs348.ta@prosys.kaist.ac.kr)
+  - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
+  - [Jongchan Park](https://kaist-jongchanpark.github.io) (박종찬)
+  - [Sujin Jang](https://sujin0529.github.io) (장수진)
 - Time: Mon/Wed 09:00 - 10:30
 - Location: N1 117
 - Office hour:
@@ -18,9 +20,13 @@ attacks occur in the modern computing environments. Students will also have oppo
 to understand techniques to discover and disable such security attacks.
 
 ## Grading
-- Exam 50%
-- Homework 40%
+- Homework 50%
+- Exam 40%
 - Participation 10%
+
+Notice that *participation* does not mean *attendance* but includes various [activities](hof.md) during the semester.
+There is no [*attendance score*](https://prosys.kaist.ac.kr/attendance/) because attendence is expected by default.
+
 
 ## Textbook
 - Lecture slides will be provided
