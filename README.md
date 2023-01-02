@@ -69,7 +69,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |11|[Software Vulnerabilities](slides/lecture16.pdf)||HWx: Exploitation|
 |12|[Safe Programming Systems](slides/lecture17.pdf)|||
 |13|[Fuzzing](slides/lecture18.pdf)||HWx: Fuzzer|
-|14|[Static Analysis](slides/lecture19.pdf)||HWx: Static Analyzer|
+|14|[Static Analysis](slides/lecture19.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false)|HWx: Static Analyzer|
 |-|Final Exam||
 
 ## Hall of Fame
