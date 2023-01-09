@@ -61,7 +61,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |4|Symmetic-key Encryption||HW2: Mini-AES|
 |5|Message Integrity|||
 |6|Availability|||
-|7|Public-key Encryption|HW3: Mini-RSA|
+|7|Public-key Encryption||HW3: Mini-RSA|
 |8|Secure Channel||
 |-|Midterm Exam||
 |9|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control Verifier|
