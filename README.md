@@ -61,15 +61,15 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |4|Symmetic-key Encryption||HW2: Mini-AES|
 |5|Message Integrity|||
 |6|Availability|||
-|7|Public-key Encryption||
+|7|Public-key Encryption|HW3: Mini-RSA|
 |8|Secure Channel||
 |-|Midterm Exam||
-|9|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HWx: Access Control Verifier|
+|9|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control Verifier|
 |10|[Web Security](slides/lecture15.pdf)|||
-|11|[Software Vulnerabilities](slides/lecture16.pdf)||HWx: Exploitation|
+|11|[Software Vulnerabilities](slides/lecture16.pdf)||HW5: Exploitation|
 |12|[Safe Programming Systems](slides/lecture17.pdf)|||
-|13|[Fuzzing](slides/lecture18.pdf)||HWx: Fuzzer|
-|14|[Static Analysis](slides/lecture19.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HWx: Static Analyzer|
+|13|[Fuzzing](slides/lecture18.pdf)||HW6: Fuzzer|
+|14|[Static Analysis](slides/lecture19.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
 |-|Final Exam||
 
 ## Hall of Fame
