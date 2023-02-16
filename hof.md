@@ -2,7 +2,7 @@
 We appreciate the following students for their outstanding participation in CS348
 and contribution to making KAIST a safer place.
 
-The details of the vulnuerabilities will be disclosed when they are patched.
+The description of the vulnuerabilities will be disclosed until they are patched.
 
 |No|Name|Date|Vulnerability|Award|
 |--|----|----|-------------|-----|
