@@ -63,7 +63,6 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |6|Availability|||
 |7|Public-key Encryption||HW3: Mini-RSA|
 |8|Secure Channel||
-|-|Midterm Exam||
 |9|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control Verifier|
 |10|[Web Security](slides/lecture15.pdf)|||
 |11|[Software Vulnerabilities](slides/lecture16.pdf)||HW5: Exploitation|
