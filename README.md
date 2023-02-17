@@ -10,7 +10,7 @@
 - Location: N1 117
 - Office hour:
   - Instructor: Mon 10:30 - 11:30
-  - TAs: TBD
+  - TAs: Wed 13:30 - 14:20
 
 ## Course Description
 This course covers the overall contents of information security. Students will be exposed
