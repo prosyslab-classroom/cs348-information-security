@@ -2,7 +2,7 @@
 name: Art competition
 about: Art competition
 title: "[Art competition] YOUR CONCEPT"
-labels: ''
+labels: 'art competition'
 assignees: ''
 ---
 ** Upload your picture and provide the following description. Delete this line. **
