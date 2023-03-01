@@ -2,7 +2,7 @@
 name: HackGPT
 about: HackGPT
 title: "[HackGPT] YOUR TITLE"
-labels: ''
+labels: 'HackGPT'
 assignees: ''
 ---
 ** Upload your dialog and provide the following description. Delete this line. **
