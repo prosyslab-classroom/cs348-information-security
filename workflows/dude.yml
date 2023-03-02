@@ -1,0 +1,26 @@
+on:
+  issues:
+    types: 
+      - opened
+
+jobs:
+  duplication_detection:
+    runs-on: ubuntu-latest
+    name: A job to detect duplicated issues
+
+    env:
+      rapid_key: ${{ secrets.RAPID_KEY }}
+      repo_key: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Duplication scan action step
+        uses: prosyslab/dude-action@v1.1
+        with:
+          issue_num: ${{ github.event.issue.number }}
+          issue_contents: ${{ github.event.issue.body }}
+          repository_path_name: ${{ github.repository }}
+          rapid_key: ${{ env.rapid_key }}
+          repo_key: ${{ env.repo_key }}
