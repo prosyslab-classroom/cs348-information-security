@@ -49,7 +49,7 @@ The late homework policy is as follows:
 - NO credit given after two days late
 
 ## Academic Integrity Violation
-Students who violate academic integrity will get F. See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
+Students who violate academic integrity will get F. See [the KAIST CS honor code](https://forms.gle/mxApoGi1vMkcCJ7n8).
 
 ## Schedule
 |#|Topics|Reading|Homework|
