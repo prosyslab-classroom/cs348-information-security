@@ -24,4 +24,4 @@ jobs:
           repository_path_name: ${{ github.repository }}
           rapid_key: ${{ env.rapid_key }}
           repo_key: ${{ env.repo_key }}
-          threshold: 0.5
+          threshold: 0.6
