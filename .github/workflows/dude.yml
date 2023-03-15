@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
         
       - name: Duplication scan action step
-        uses: prosyslab/dude-action@v1.1
+        uses: prosyslab/dude-action@v1.2
         with:
           issue_num: ${{ github.event.issue.number }}
           issue_contents: ${{ github.event.issue.body }}
