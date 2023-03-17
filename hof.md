@@ -7,10 +7,10 @@ The description of the vulnuerabilities will be disclosed until they are patched
 ## 2023 Spring
 |No|Name|Date|Vulnerability|Award|
 |--|----|----|-------------|-----|
-|1 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED||
-|2 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED||
-|3 |Suchan Park (박수찬)|2023.03.13|CLASSIFIED||
-|4 |Seoyeon Bae (배서연)|2023.03.15|CLASSIFIED||
+|1 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED|1 grade up|
+|2 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED|1 grade up|
+|3 |Suchan Park (박수찬)|2023.03.13|CLASSIFIED|+1% of final score|
+|4 |Seoyeon Bae (배서연)|2023.03.15|CLASSIFIED|drink|
 
 ## 2022 Spring
 |No|Name|Date|Vulnerability|Award|
