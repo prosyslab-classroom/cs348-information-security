@@ -1,9 +1,16 @@
-## CS348 Hall of Fame
+# CS348 Hall of Fame
 We appreciate the following students for their outstanding participation in CS348
 and contribution to making KAIST a safer place.
 
 The description of the vulnuerabilities will be disclosed until they are patched.
 
+## 2023 Spring
+|No|Name|Date|Vulnerability|Award|
+|--|----|----|-------------|-----|
+|1 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED||
+|2 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED||
+
+## 2022 Spring
 |No|Name|Date|Vulnerability|Award|
 |--|----|----|-------------|-----|
 |1 |Wonho Shin (신원호)|2022.04.27| 2FA bypassing | 1 grade up + drink|
