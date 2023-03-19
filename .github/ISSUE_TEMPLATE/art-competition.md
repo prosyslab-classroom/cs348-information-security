@@ -7,6 +7,8 @@ assignees: ''
 ---
 ** Upload your picture and provide the following description. Delete this line. **
 
+## Name:
+
 ## Short Description
 For me, [*the chosen concept*] means [*the sentence you used to generate the picture using DALL-E*]".
 
