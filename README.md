@@ -78,7 +78,7 @@ See the outstanding achievement of our friends [here](hof.md).
 - [CS492: Program Reasoning](https://github.com/prosyslab-classroom/cs492-program-reasoning)
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis)
 
-Acknowlegement
+## Acknowlegement
 
 A large part of the slides is based on the lecture notes of Prof. Min Suk Kang at KAIST.
 
