@@ -12,6 +12,9 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |3 |Suchan Park (박수찬)|2023.03.13|CLASSIFIED|+1% of final score|
 |4 |Seoyeon Bae (배서연)|2023.03.15|CLASSIFIED|drink|
 
+You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/7sLoUsrCf6ddBs389). 
+
+
 ## 2022 Spring
 |No|Name|Date|Vulnerability|Award|
 |--|----|----|-------------|-----|
@@ -42,6 +45,4 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |25|Minhee Kim (김민희)|2022.05.27| 2FA bypassing | drink |
 |26|Seungjin Yu (유승진)|2022.05.30| Functional incorrectness | drink |
 
-
-### Photos
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/kcCZuWpSCfAWB86ZA). 
