@@ -59,7 +59,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |2|[Concepts in Security](slides/lecture2.pdf)||
 |3|[Classical Cryptography](slides/lecture3.pdf)||HW1: Classical Cryptography|
 |4|[Symmetic-key Encryption](slides/lecture4.pdf)||HW2: Mini-AES|
-|5|Message Integrity|||
+|5|[Message Integrity](slides/lecture5.pdf)|||
 |6|Availability|||
 |7|Public-key Encryption||HW3: Mini-RSA|
 |8|Secure Channel||
