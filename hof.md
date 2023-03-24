@@ -11,6 +11,14 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |2 |Tanapoom Sermchaiwong|2023.03.13|CLASSIFIED|1 grade up|
 |3 |Suchan Park (박수찬)|2023.03.13|CLASSIFIED|+1% of final score|
 |4 |Seoyeon Bae (배서연)|2023.03.15|CLASSIFIED|drink|
+|5 |Minhajur Rahman Chowdhury Mahim|2023.03.16|CLASSIFIED|+3% of final score|
+|6 |Suchan Park (박수찬)|2023.03.17|CLASSIFIED|1 grade up|
+|7 |Tanapoom Sermchaiwong|2023.03.17|CLASSIFIED|+1% of final score|
+|8 |Azamat Atabayev|2023.03.18|CLASSIFIED|drink|
+|9 |Aziz Huseynov|2023.03.19|CLASSIFIED|1 grade up|
+|10|Juchang Lee (이주창)|2023.03.20|CLASSIFIED|1 grade up|
+|11|Nurlykhan Kopenov|2023.03.21|CLASSIFIED|drink|
+
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/7sLoUsrCf6ddBs389). 
 
