@@ -5,6 +5,11 @@ We will use Github/Github Classroom to provide assignment templates and manage s
 Student should get familiar with `git`.
 If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
 
+## GradeScope
+We will use GradeScope to grade assignments and exams.
+Students should use the real name and KAIST email the same as KLMS.
+Detailed instruction for submission is [here](https://docs.google.com/document/d/1FWXTf4LI-DMvZIu2aRPnzGOzC7flR_G_8Bf9ZDGjX7s/edit?usp=sharing)
+
 ## OCaml
 Students will use the [OCaml](https://ocaml.org) programming language for the software security assignments. For more details of OCaml, see the following meterials:
   #### OCaml Tutorial
