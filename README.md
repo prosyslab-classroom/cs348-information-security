@@ -60,7 +60,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |3|[Classical Cryptography](slides/lecture3.pdf)||HW1: Classical Cryptography|
 |4|[Symmetic-key Encryption](slides/lecture4.pdf)|[AES Visualization](https://formaestudio.com/rijndaelinspector/archivos/Rijndael_Animation_v4_eng-html5.html)|HW2: Mini-AES|
 |5|[Message Integrity](slides/lecture5.pdf)|[<img src="icons/youtube.png" width="16" /> Birthday Paradox](https://youtu.be/KtT_cgMzHx8)||
-|6|Availability|||
+|6|[Availability](slides/lecture6.pdf)|||
 |7|Public-key Cryptography|[<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW3: Mini-RSA|
 |8|[Access Control](slides/lecture14.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control Verifier|
 |9|[Web Security](slides/lecture15.pdf)|||
