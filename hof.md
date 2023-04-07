@@ -25,7 +25,7 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |16|Amin Jalilov|2023.03.27|CLASSIFIED|drink|
 |17|Amin Jalilov|2023.03.27|CLASSIFIED|drink|
 |18|Akhdan Dzaky Maulana|2023.03.28|CLASSIFIED|drink|
-
+|14|Tanapoom Sermchaiwong|2023.03.31|CLASSIFIED|+1% of final score|
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/7sLoUsrCf6ddBs389). 
 
