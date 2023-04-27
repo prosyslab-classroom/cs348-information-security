@@ -30,10 +30,11 @@ There is no [*attendance score*](https://prosys.kaist.ac.kr/attendance/) because
 
 ## Textbook
 - Lecture slides will be provided
-- Ross Anderson, [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
-- Paul C. van Oorschot, [Computer Security and the Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
-- Andreas Zeller et al., [The Fuzzing Book](https://www.fuzzingbook.org)
-- Xavier Rival and Kwangkeun Yi, [Introduction to static analysis : an abstract interpretation perspective](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=910257&se=b0&ty=B&_csrf=419dcd43-c1b9-4a69-82da-35f631b8777c)
+- Ross Anderson, [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) (SE)
+- Paul C. van Oorschot, [Computer Security and the Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html) (CSI)
+- J. Katz and Y. Lindell, Introduction to Modern Cryptography (IMC)
+- Andreas Zeller et al., [The Fuzzing Book](https://www.fuzzingbook.org) (Fuzzing)
+- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis : an abstract interpretation perspective](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=910257&se=b0&ty=B&_csrf=419dcd43-c1b9-4a69-82da-35f631b8777c) (ISA)
 
 ## Homework
 This course includes written and programming assignments.
@@ -57,13 +58,13 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml programming|
 |1|[Introduction](slides/lecture1.pdf)||
 |2|[Concepts in Security](slides/lecture2.pdf)||
-|3|[Classical Cryptography](slides/lecture3.pdf)||HW1: Classical Cryptography|
-|4|[Symmetic-key Encryption](slides/lecture4.pdf)|[AES Visualization](https://formaestudio.com/rijndaelinspector/archivos/Rijndael_Animation_v4_eng-html5.html)|HW2: Mini-AES|
-|5|[Message Integrity](slides/lecture5.pdf)|[<img src="icons/youtube.png" width="16" /> Birthday Paradox](https://youtu.be/KtT_cgMzHx8)||
+|3|[Classical Cryptography](slides/lecture3.pdf)|IMC Ch1|HW1: Classical Cryptography|
+|4|[Symmetic-key Encryption](slides/lecture4.pdf)|IMC Ch2, Ch3, [AES Visualization](https://formaestudio.com/rijndaelinspector/archivos/Rijndael_Animation_v4_eng-html5.html)|HW2: Mini-AES|
+|5|[Message Integrity](slides/lecture5.pdf)|IMC Ch4, [<img src="icons/youtube.png" width="16" /> Birthday Paradox](https://youtu.be/KtT_cgMzHx8)||
 |6|[Availability](slides/lecture6.pdf)|||
-|7|[Public-key Cryptography](slides/lecture7.pdf)|[<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW3: Mini-RSA|
+|7|[Public-key Cryptography](slides/lecture7.pdf)|IMC Ch11, Ch12, Ch13, [<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW3: Mini-RSA|
 |8|[Access Control](slides/lecture8.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control System|
-|9|[Web Security](slides/lecture9.pdf)|||
+|9|[Web Security](slides/lecture9.pdf)|CSI Ch9||
 |10|[Software Vulnerabilities](slides/lecture16.pdf)||HW5: Exploitation|
 |11|[Safe Programming Systems](slides/lecture17.pdf)|||
 |12|[Fuzzing](slides/lecture18.pdf)||HW6: Fuzzer|
