@@ -65,10 +65,10 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |7|[Public-key Cryptography](slides/lecture7.pdf)|IMC Ch11, Ch12, Ch13, [<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW3: Mini-RSA|
 |8|[Access Control](slides/lecture8.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control System|
 |9|[Web Security](slides/lecture9.pdf)|CSI Ch9||
-|10|[Software Vulnerabilities](slides/lecture16.pdf)||HW5: Exploitation|
-|11|[Safe Programming Systems](slides/lecture17.pdf)|||
-|12|[Fuzzing](slides/lecture18.pdf)||HW6: Fuzzer|
-|13|[Static Analysis](slides/lecture19.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
+|10|[Software Vulnerabilities](slides/lecture10.pdf)||HW5: Exploitation|
+|11|[Safe Programming Systems](slides/lecture11.pdf)|||
+|12|[Fuzzing](slides/lecture12.pdf)||HW6: Fuzzer|
+|13|[Static Analysis](slides/lecture13.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
 |-|Final Exam||
 
 ## Hall of Fame
