@@ -25,9 +25,11 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |16|Amin Jalilov|2023.03.27|CLASSIFIED|drink|
 |17|Amin Jalilov|2023.03.27|CLASSIFIED|drink|
 |18|Akhdan Dzaky Maulana|2023.03.28|CLASSIFIED|drink|
-|14|Tanapoom Sermchaiwong|2023.03.31|PATCHED|+1% of final score|
-|15|Tanapoom Sermchaiwong|2023.04.26|CLASSIFIED|drink|
-|14|Geon Park (박건)|2023.05.03|CLASSIFIED|+1% of final score|
+|19|Tanapoom Sermchaiwong|2023.03.31|PATCHED|+1% of final score|
+|20|Tanapoom Sermchaiwong|2023.04.26|CLASSIFIED|drink|
+|21|Geon Park (박건)|2023.05.03|CLASSIFIED|+1% of final score|
+|22|Geon Park (박건)|2023.05.05|CLASSIFIED|drink|
+|23|Juchang Lee (이주창)|2023.05.09|CLASSIFIED|drink|
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/7sLoUsrCf6ddBs389). 
 
