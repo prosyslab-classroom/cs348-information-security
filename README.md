@@ -67,7 +67,7 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |9|[Web Security](slides/lecture9.pdf)|CSI Ch9||
 |10|[Software Vulnerabilities](slides/lecture10.pdf)||HW5: Exploitation|
 |11|[Safe Programming Systems](slides/lecture11.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)||
-|12|[Fuzzing](slides/lecture12.pdf)||HW6: Fuzzer|
+|12|[Dynamic Analysis and Fuzzing](slides/lecture12.pdf)||HW6: Fuzzer|
 |13|[Static Analysis](slides/lecture13.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
 |-|Final Exam||
 
