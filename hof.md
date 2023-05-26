@@ -31,6 +31,8 @@ The description of the vulnuerabilities will be disclosed until they are patched
 |22|Geon Park (박건)|2023.05.05|CLASSIFIED|drink|
 |23|Juchang Lee (이주창)|2023.05.09|CLASSIFIED|drink|
 |24|Yejun Ju (주예준)|2023.05.16|CLASSIFIED|+1% of final score|
+|25|Yejun Ju (주예준)|2023.05.21|CLASSIFIED|+3% of final score|
+|26|Reinatt Hansel Wijaya|2023.05.22|CLASSIFIED|drink|
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/7sLoUsrCf6ddBs389). 
 
