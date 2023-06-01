@@ -14,7 +14,9 @@ def print_line():
         line += ":-:|"
     return line
 
-
+# 2023 수정사항:
+# 1. github issue 에 그림을 올리면, 2022년처럼 *.png 로 링크가 나오지 않고, aws 에 있는 곳으로 전달됨.
+# 2. 위 이유 때문에 확장자가 없어져서, 그림에 이슈 링크를 달아놓아도 그림만 나오고 이슈로 가지 않음. 따라서 제목을 누르면 이슈로 가도록 수정했음.
 def main():
     username = input("Username: ")
     password = getpass.getpass()
@@ -28,7 +30,6 @@ def main():
     for issue in issues:
         title = issue.title.split("] ")[1]
         issue_url = issue.url.replace("api.", "").replace("/repos/", "/")
-        print(issue.body)
         # markdown
         image_url = re.search(r"\(https://github.com/.+\)", issue.body)
         if image_url == None:
@@ -46,7 +47,7 @@ def main():
             elif label.name == "bronze":
                 bronze = True
         medal = ":1st_place_medal:" if gold else ":2nd_place_medal:" if silver else ":3rd_place_medal:" if bronze else ""
-        line += f"[![{title}]({image_url})]({issue_url}){title} {medal}<br>by [{user}]({user_url})|"
+        line += f"[![{title}]({image_url})]({issue_url})[{title}]({issue_url}) {medal}<br>by [{user}]({user_url})|"
         index += 1
         if index % cols == 0:
             if not line_printed:
