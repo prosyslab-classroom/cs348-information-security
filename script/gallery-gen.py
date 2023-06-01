@@ -37,7 +37,7 @@ def main():
             image_url = re.search(r"\"https://github.com/.+\"", issue.body)
         image_url = image_url.group(0)[1:-1]
         user = issue.user.login
-        user_url = issue.user.url
+        user_url = f"https://github.com/{user}"
         (gold, silver, bronze) = (False, False, False)
         for label in issue.labels:
             if label.name == "gold":
