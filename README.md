@@ -8,15 +8,15 @@
   - [Sujin Jang](https://sujin0529.github.io) (장수진)
 - Time: Mon/Wed 09:00 - 10:30
 - Location: N1 117
-- Office hour:
+- Office hours:
   - Instructor: Mon 10:30 - 11:30
   - TAs: Wed 13:30 - 14:20
 
 ## Course Description
 This course covers the overall contents of information security. Students will be exposed
 to fundamental concepts in information security including cryptography, system security,
-software security, web security and network security. This course introduces how security
-attacks occur in the modern computing environments. Students will also have opportunities
+software security, web security, and network security. This course introduces how security
+attacks occur in modern computing environments. Students will also have opportunities
 to understand techniques to discover and disable such security attacks.
 
 ## Grading
@@ -25,7 +25,7 @@ to understand techniques to discover and disable such security attacks.
 - Participation 10%
 
 Notice that *participation* does not mean *attendance* but includes various [activities](hof.md) during the semester.
-There is no [*attendance score*](https://prosys.kaist.ac.kr/attendance/) because attendence is expected by default.
+There is no [*attendance score*](https://prosys.kaist.ac.kr/attendance/) because attendance is expected by default.
 
 
 ## Textbook
