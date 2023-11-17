@@ -16,6 +16,7 @@ Students will use the [OCaml](https://ocaml.org) programming language for the so
   - [Functional Programming in OCaml (simple version)](slides/ocaml-tutorial.pdf)
   - [Functional Programming in OCaml (detailed version from Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
   - [OCaml Tutorial Videos](https://www.youtube.com/watch?v=xTsHMja8joA&list=PLPGcR5TG6arH6hk04YnAsMbYmQvBqwFdw)
+  - [Hardcore OCaml](https://github.com/prosyslab-classroom/hardcore-ocaml)
   #### OCaml Book
   - [Real World OCaml](https://dev.realworldocaml.org/index.html)
   #### Why OCaml?
