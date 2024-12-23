@@ -1,46 +1,65 @@
-# CS348: Introduction to Information Security (정보보호개론)
+# CS348: 정보보호개론 Introduction to Information Security
 
-## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
-- TAs (mailing list: cs348.ta@prosys.kaist.ac.kr)
-  - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
-  - [Jongchan Park](https://kaist-jongchanpark.github.io) (박종찬)
-  - [Sujin Jang](https://sujin0529.github.io) (장수진)
-- Time: Mon/Wed 09:00 - 10:30
-- Location: N1 117
-- Office hours:
-  - Instructor: Mon 10:30 - 11:30
-  - TAs: Wed 13:30 - 14:20
+## 수업정보 Logistics
+- 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
+- 조교 TAs (mailing list: cs348.ta@prosys.kaist.ac.kr)
+  - TBA
+- 강의 Time: 월/수 Mon/Wed 09:00 - 10:30
+- 장소 Location: N1 117
+- 면담 Office hours:
+  - 교수 Instructor: Mon 10:30 - 11:30
+  - 조교 TAs: TBA
 
-## Course Description
+## 강의 소개 Course Description
+이 강의에서는 정보보호 전반에 걸친 기초 내용을 다룬다.
+암호, 시스템 보안, 소프트웨어 보안, 웹 보안, 네트워크 보안의 기본 개념을 소개하고
+실생활에서 어떠한 보안 위협이 존재하는지 살펴본다.
+그리고 이러한 위협으로부터 우리를 보호하는 여러가지 기술에 관해 이야기한다.
+
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용한다.
+
 This course covers the overall contents of information security. Students will be exposed
 to fundamental concepts in information security including cryptography, system security,
 software security, web security, and network security. This course introduces how security
 attacks occur in modern computing environments. Students will also have opportunities
 to understand techniques to discover and disable such security attacks.
 
-## Grading
-- Homework 50%
-- Exam 40%
-- Participation 10%
-
-Notice that *participation* does not mean *attendance* but includes various [activities](hof.md) during the semester.
-There is no [*attendance score*](https://prosys.kaist.ac.kr/attendance/) because attendance is expected by default.
-
-
-## Textbook
-- Lecture slides will be provided
+## 성적 Grading
+- 숙제 Homework: 50%
+- 시험 Exam: 40%
+- 참여 Participation: 10%
+  - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
+  - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
+  - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 정량화 할 만큼 가치가 낮지 않기 때문입니다.
+  - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
+ 
+## 교재 Textbook
+- 강의자료가 제공됩니다. Lecture slides will be provided
 - Ross Anderson, [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) (SE)
 - Paul C. van Oorschot, [Computer Security and the Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html) (CSI)
 - J. Katz and Y. Lindell, Introduction to Modern Cryptography (IMC)
 - Andreas Zeller et al., [The Fuzzing Book](https://www.fuzzingbook.org) (Fuzzing)
-- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis : an abstract interpretation perspective](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=910257&se=b0&ty=B&_csrf=419dcd43-c1b9-4a69-82da-35f631b8777c) (ISA)
+- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an abstract interpretation perspective](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=910257&se=b0&ty=B&_csrf=419dcd43-c1b9-4a69-82da-35f631b8777c) (ISA)
 
-## Homework
+## 숙제 Homework
+이 강의에서 학생들은 다양한 숙제를 통해 정보보호의 기본 개념을 실제로 익힙니다.
+특히 [여기](TOOL.md)에 있는 도구를 사용할 예정입니다.
+
+모든 숙제 제출은 Github와 Gradescope 를 통해서 이루어집니다.
+매 숙제마다 제출을 위한 GitHub Classroom 초대 URL이 [게시판](../../discussions)에 공지됩니다.
+초대를 수락하면, 여러분의 숙제를 위한 비공개 개인 저장소가 만들어 질 것입니다.
+여러분은 제출 기한 이전에 원하는 만큼 해당 저장소에 제출할 수 있고,
+이 저장소를 Gradescope에 제출하여 채점결과를 확인할 수 있습니다.
+
+기한을 넘겨서 제출할 시 아래와 같은 규정에 따라 채점합니다:
+- 하루 늦을 시 점수의 80%
+- 이틀 늦을 시 점수의 50%
+- 사흘 이상 늦을 시 0%
+
 This course includes written and programming assignments.
-Students will use a few tools which are described [here](TOOL.md).
+Students will use tools described [here](TOOL.md).
 All submissions will be managed using Github.
-For each assignment, a unique invitation URL for Github Classroom will be posted in the [issue board](../../issues).
+For each assignment, a unique invitation URL for Github Classroom will be posted in the [discussion board](../../discussions).
 Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `main` branch.
 
@@ -49,10 +68,20 @@ The late homework policy is as follows:
 - 50% credit for two days late
 - NO credit given after two days late
 
-## Academic Integrity Violation
-Students who violate academic integrity will get F. See [the KAIST CS honor code](https://forms.gle/mxApoGi1vMkcCJ7n8).
+## 학문 윤리 Academic Integrity
+학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
 
-## Schedule
+세상에 널린 자료 (예: 구글 검색, ChatGPT)를 참고하는 것은 좋지만, 그대로 베끼는 것은 윤리에 어긋납니다.
+제출한 과제는 기존 저작물(다른 수강생, 과거 수강생, AI 생성물 등)과 자동으로 비교하여 표절물을 검사합니다.
+완전히 본인의 것으로 재창조하지 않고 기존 저작물과 비슷한 경우는 표절로 판단합니다.
+이러한 원칙은 AI도구가 등장했다고 해서 달라지지 않습니다.
+
+Students who violate academic integrity will get an F.
+See [the KAIST CS honor code](https://cs.kaist.ac.kr/content?menu=309).
+
+It’s fine to refer to readily available resources (e.g., Google searches, ChatGPT), but copying them directly is unethical. Submitted assignments will be automatically compared to existing works (other students’ work, past students’ work, AI-generated content, etc.) to check for plagiarism. If the work closely resembles existing material without being fully recreated as your own, it will be considered plagiarism. This principle remains unchanged even in the AI era.
+
+## 강의 계획 Schedule
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||HW0: Hello-world, OCaml programming|
@@ -71,17 +100,21 @@ Students who violate academic integrity will get F. See [the KAIST CS honor code
 |13|[Static Analysis](slides/lecture13.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
 |-|Final Exam||
 
-## Hall of Fame
+## 명예의 전당 Hall of Fame
+지난 학기 수강생들이 [남긴](https://prosys.kaist.ac.kr/what-is-left/) 멋진 작품을 [여기서](hof.md) 감상해 보세요 (에세이, 그림 등).
+
 See the outstanding achievement of our friends [here](hof.md).
 
-## Advanced Course
+## 심화 과목 Advanced Course
 - [CS492: Program Reasoning](https://github.com/prosyslab-classroom/cs492-program-reasoning)
 - [CS524: Program Analysis](https://github.com/prosyslab-classroom/cs524-program-analysis)
 
-## Acknowlegement
+## 감사 Acknowledgment
+이 강의 자료의 일부는 KAIST 강민석, 차상길 교수님의 강의록을 참고하여 작성하였습니다.
+A large part of the slides is based on the lecture notes of Prof. Min Suk Kang and Prof. Sang Kil Cha at KAIST.
 
-A large part of the slides is based on the lecture notes of Prof. Min Suk Kang at KAIST.
-
-## References
+## 참고 자료 References
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
+- [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
+- [Recursion World](http://recursion.kaist.ac.kr)
