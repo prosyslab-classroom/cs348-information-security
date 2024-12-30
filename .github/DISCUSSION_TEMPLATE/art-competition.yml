@@ -1,0 +1,47 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ** Upload your picture and provide the following description. **
+  - type: textarea
+    id: art
+    attributes:
+      label: Your work
+      description: "A description about your work"
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Your Name
+      description: "Provide your Korean name as well (if you are a Korean)"
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: Tool You Used
+      description: "E.g., Dall-E, Suno, etc"
+    validations:
+      required: true
+  - type: textarea
+    id: short
+    attributes:
+      label: Short Description
+      description: "The prompt you used to generate the art"
+      value: |
+        For me, [*the chosen concept*] means ... ".
+    validations:
+      required: true
+  - type: textarea
+    id: long
+    attributes:
+      label: Long Description (up to 3 sentences)
+      description: "Detailed description"
+      value: |
+        1.
+        2.
+        3.
+        ...
+    validations:
+      required: true

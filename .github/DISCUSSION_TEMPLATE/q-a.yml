@@ -1,0 +1,19 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - Note that TAs will not help debugging your code.
+  - type: input
+    id: name
+    attributes:
+      label: Your Name
+      description: "Provide your Korean name as well (if you are a Korean)"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: "Question here. Write in Korean if you are a Korean and append the English translation."
+    validations:
+      required: true
