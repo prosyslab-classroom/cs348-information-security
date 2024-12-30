@@ -125,6 +125,7 @@ See the outstanding achievement of our friends [here](hof.md).
 
 ## 감사 Acknowledgment
 이 강의 자료의 일부는 KAIST 강민석, 차상길 교수님의 강의록을 참고하여 작성하였습니다.
+
 A large part of the slides is based on the lecture notes of Prof. Min Suk Kang and Prof. Sang Kil Cha at KAIST.
 
 ## 참고 자료 References
