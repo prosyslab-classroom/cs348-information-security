@@ -32,7 +32,15 @@ to understand techniques to discover and disable such security attacks.
   - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
   - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 수업에 오는 것은 기본이며, 정량화 할 만큼 가치가 낮지 않기 때문입니다.
   - I always look forward to seeing you in every class. [Attendance is not quantitatively assessed](https://prosys.kaist.ac.kr/attendance/) because it is too valuable to be reduced to a mere number.
- 
+
+## P/NR 관련 공지 Note for P/NR
+이 강의는 P/NR 성적을 허용하지 않습니다.
+신입생은 반드시 교수에게 이메일을 통해 사전 승인을 받은 후 수강신청하길 바랍니다.
+
+This course DOES NOT allow for P/NR grading.
+Freshmen can enroll in this course only if they have prior approval from the instructor.
+Send an email to the instructor for approval.
+
 ## 교재 Textbook
 - 강의자료가 제공됩니다. Lecture slides will be provided
 - Ross Anderson, [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) (SE)
