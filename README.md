@@ -3,7 +3,10 @@
 ## 수업정보 Logistics
 - 교수 Instructor: [허기홍 Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - 조교 TAs (mailing list: cs348.ta@prosys.kaist.ac.kr)
-  - TBA
+  - [Tae Eun Kim](https://prosys.kaist.ac.kr/home/taeeunkim) (김태은)
+  - [Jaehoon Jang](https://prosys.kaist.ac.kr/home/jaehoonjang) (장재훈)
+  - [Minsol Park](https://prosys.kaist.ac.kr/home/minsolpark) (박민솔)
+  - [Bongjun Jang](https://prosys.kaist.ac.kr/home/bongjunjang) (장봉준)
 - 강의 Time: 월/수 Mon/Wed 09:00 - 10:30
 - 장소 Location: N1 117
 - 면담 Office hours:
