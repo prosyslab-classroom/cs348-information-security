@@ -106,15 +106,15 @@ It’s fine to refer to readily available resources (e.g., Google searches, Chat
 |2|[Concepts in Security](slides/lecture2.pdf)||
 |3|[Classical Cryptography](slides/lecture3.pdf)|IMC Ch1|HW1: Classical Cryptography|
 |4|[Symmetic-key Encryption](slides/lecture4.pdf)|IMC Ch2, Ch3, [AES Visualization](https://formaestudio.com/rijndaelinspector/archivos/Rijndael_Animation_v4_eng-html5.html)|HW2: Mini-AES|
-|5|[Message Integrity](slides/lecture5.pdf)|IMC Ch4, [<img src="icons/youtube.png" width="16" /> Birthday Paradox](https://youtu.be/KtT_cgMzHx8)||
+|5|[Message Integrity](slides/lecture5.pdf)|IMC Ch4, [<img src="icons/youtube.png" width="16" /> Birthday Paradox](https://youtu.be/KtT_cgMzHx8)|HW3: Mini-SHA|
 |6|[Availability](slides/lecture6.pdf)|||
-|7|[Public-key Cryptography](slides/lecture7.pdf)|IMC Ch11, Ch12, Ch13, [<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW3: Mini-RSA|
-|8|[Access Control](slides/lecture8.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW4: Access Control System|
+|7|[Public-key Cryptography](slides/lecture7.pdf)|IMC Ch11, Ch12, Ch13, [<img src="icons/youtube.png" width="16" /> Diffie-Hellman](https://www.youtube.com/watch?v=YEBfamv-_do)|HW4: Mini-RSA|
+|8|[Access Control](slides/lecture8.pdf)|[Zelkova](https://www.amazon.science/blog/a-billion-smt-queries-a-day)|HW5: Access Control System|
 |9|[Web Security](slides/lecture9.pdf)|CSI Ch9||
-|10|[Software Vulnerabilities](slides/lecture10.pdf)||HW5: Exploitation|
+|10|[Software Vulnerabilities](slides/lecture10.pdf)||HW6: Exploitation|
 |11|[Safe Programming Systems](slides/lecture11.pdf)|<img src="icons/youtube.png" width="16" /> Undecidability [<img src="icons/kor.png" width="16" />](https://youtu.be/oippSXvxUlw) [<img src="icons/eng.png" width="16" />](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=2)||
-|12|[Dynamic Analysis and Fuzzing](slides/lecture12.pdf)||HW6: Fuzzer|
-|13|[Static Analysis](slides/lecture13.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW7: Static Analyzer|
+|12|[Dynamic Analysis and Fuzzing](slides/lecture12.pdf)||HW7: Fuzzer|
+|13|[Static Analysis](slides/lecture13.pdf)|[CACM'19](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext?mobile=false), [Zoncolan](https://engineering.fb.com/2019/08/15/security/zoncolan/)|HW8: Static Analyzer|
 |-|Final Exam||
 
 ## 명예의 전당 Hall of Fame
