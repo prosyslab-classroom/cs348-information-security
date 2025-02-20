@@ -19,7 +19,7 @@
 실생활에서 어떠한 보안 위협이 존재하는지 살펴본다.
 그리고 이러한 위협으로부터 우리를 보호하는 여러가지 기술에 관해 이야기한다.
 
-본 강의에서는 [쉬운전문용어](https://easyword.kr)를 [사용한다](https://prosys.kaist.ac.kr/easy-word/).
+본 강의에서는 [쉬운전문용어](https://easyword.kr)를 사용하며 [소박하게 공부 한다](https://prosys.kaist.ac.kr/easy-word/).
 
 This course covers the overall contents of information security. Students will be exposed
 to fundamental concepts in information security including cryptography, system security,
