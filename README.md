@@ -28,9 +28,9 @@ attacks occur in modern computing environments. Students will also have opportun
 to understand techniques to discover and disable such security attacks.
 
 ## 성적 Grading
-- 숙제 Homework: 50%
+- 숙제 Homework: 40%
 - 시험 Exam: 40%
-- 참여 Participation: 10%
+- 참여 Participation: 20%
   - 적극적인 참여로 본인이 배운 바를 [스스로 다채롭게 내뿜는](hof.md) 학생들을 위한 보상입니다.
   - This is for students who actively participate and express what they have learned [in a diverse way](hof.md).
   - 매 수업시간에 항상 여러분을 만날 수 있기를 기대합니다. [출석은 정량평가하지 않습니다](https://prosys.kaist.ac.kr/attendance/). 수업에 오는 것은 기본이며, 정량화 할 만큼 가치가 낮지 않기 때문입니다.
@@ -132,7 +132,27 @@ See the outstanding achievement of our friends [here](hof.md).
 A large part of the slides is based on the lecture notes of Prof. Min Suk Kang and Prof. Sang Kil Cha at KAIST.
 
 ## 참고 자료 References
+#### 기본 Preliminaries
 - [PL Wiki](https://github.com/prosyslab/pl-wiki/wiki)
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](http://recursion.kaist.ac.kr)
+
+#### 암호 Cryptography
+- [Formal Verification Makes RSA Faster and Faster to Deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
+  
+#### 안전한 프로그래밍 언어 Secure Programming Languages
+- [Memory Safety](https://www.chromium.org/Home/chromium-security/memory-safety/), Google
+- [OCaml: Memroy Safety and Beyond](https://tarides.com/blog/2023-12-14-ocaml-memory-safety-and-beyond/), Tardes 2023
+- [Programming Language and Cybersecurity](https://tarides.com/blog/2023-08-17-your-programming-language-and-its-impact-on-the-cybersecurity-of-your-application/), Tardes 2023
+- [Principles and Practices for SW Memory Safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/), CACM 2025
+- [Future Software Should Be Memory Safe](https://bidenwhitehouse.archives.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/), White House
+
+#### 프로그램 분석과 검증 Program Analysis & Verification
+- [Infer](https://fbinfer.com)
+- [CodeQL](https://codeql.github.com)
+- [Lessons from Building Static Analysis Tools at Google](https://dl.acm.org/doi/10.1145/3188720), CACM 2018
+- [Scaling Static Analysis at Facebook](https://cacm.acm.org/magazines/2019/8/238344-scaling-static-analyses-at-facebook/fulltext), CACM 2019
+- [Detect Bugs Early with the Static Analyzer](https://developer.apple.com/videos/play/wwdc2021/10202/), Apple WWDC 2021
+- [Formal Software Verification Measures Up](https://dl.acm.org/doi/10.1145/3464933), CACM 2021
+- [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
