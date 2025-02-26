@@ -11,7 +11,7 @@
 - 장소 Location: N1 117
 - 면담 Office hours:
   - 교수 Instructor: Mon 10:30 - 11:30
-  - 조교 TAs: TBA
+  - 조교 TAs: Wed 13:00 - 14:00
 
 ## 강의 소개 Course Description
 이 강의에서는 정보보호 전반에 걸친 기초 내용을 다룬다.
