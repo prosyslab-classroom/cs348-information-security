@@ -143,7 +143,7 @@ A large part of the slides is based on the lecture notes of Prof. Min Suk Kang a
   
 #### 안전한 프로그래밍 언어 Secure Programming Languages
 - [Memory Safety](https://www.chromium.org/Home/chromium-security/memory-safety/), Google
-- [OCaml: Memroy Safety and Beyond](https://tarides.com/blog/2023-12-14-ocaml-memory-safety-and-beyond/), Tardes 2023
+- [OCaml: Memory Safety and Beyond](https://tarides.com/blog/2023-12-14-ocaml-memory-safety-and-beyond/), Tardes 2023
 - [Programming Language and Cybersecurity](https://tarides.com/blog/2023-08-17-your-programming-language-and-its-impact-on-the-cybersecurity-of-your-application/), Tardes 2023
 - [Principles and Practices for SW Memory Safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/), CACM 2025
 - [Future Software Should Be Memory Safe](https://bidenwhitehouse.archives.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/), White House
