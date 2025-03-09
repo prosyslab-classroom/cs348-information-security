@@ -1,8 +1,11 @@
 # CS348 Hall of Fame
-We appreciate the following students for their outstanding participation in CS348
-and contribution to making KAIST a safer place.
-
-The description of the vulnuerabilities will be disclosed until they are patched.
+## 2025 Spring
+#### Essay
+- [제목 - 김민찬](essay/2025-YOURNAME.pdf)
+- [제목 - 문성민](essay/2025-YOURNAME.pdf)
+- [제목 - 빈희진](essay/2025-YOURNAME.pdf)
+- [제목 - 송영준](essay/2025-YOURNAME.pdf)
+- [제목 - 장원준](essay/2025-YOURNAME.pdf)
 
 ## 2023 Spring
 #### Threat Hunt
