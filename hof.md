@@ -4,7 +4,7 @@
 - [제목 - 김민찬](essay/2025-YOURNAME.pdf)
 - [제목 - 문성민](essay/2025-YOURNAME.pdf)
 - [제목 - 빈희진](essay/2025-YOURNAME.pdf)
-- [제목 - 송영준](essay/2025-YOURNAME.pdf)
+- [암호화폐와 사이버 보안: Bybit 해킹을 중심으로 - 송영준](essay/2025-Youngjun_Song.pdf)
 - [제목 - 장원준](essay/2025-YOURNAME.pdf)
 
 ## 2023 Spring
