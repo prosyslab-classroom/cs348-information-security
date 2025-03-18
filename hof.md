@@ -5,7 +5,6 @@
 - [끊기지 않는 버그, 그리고 끊기지 않는 맞섬 - 문성민](essay/2025-MoonSungmin.pdf)
 - [보안 위협의 평범성: 아무 생각 없이 우리는 가담한다 - 빈희진](essay/2025-HeejinBin.pdf)
 - [암호화폐와 사이버 보안: Bybit 해킹을 중심으로 - 송영준](essay/2025-Youngjun_Song.pdf)
-- [제목 - 장원준](essay/2025-YOURNAME.pdf)
 
 ## 2023 Spring
 #### Threat Hunt
