@@ -6,6 +6,19 @@
 - [보안 위협의 평범성: 아무 생각 없이 우리는 가담한다 - 빈희진](essay/2025-HeejinBin.pdf)
 - [암호화폐와 사이버 보안: Bybit 해킹을 중심으로 - 송영준](essay/2025-Youngjun_Song.pdf)
 
+#### Threat Hunt
+|No|Name|Date|Vulnerability|Award|
+|--|----|----|-------------|-----|
+|1 |Seungju Oh (오승주)|2023.03.15|CLASSIFIED|+1% of final score|
+|2 |Seungju Oh (오승주)|2023.03.15|CLASSIFIED|+1% of final score|
+|3 |Seungju Oh (오승주)|2023.03.16|CLASSIFIED|1 grade up|
+|4 |Seungju Oh (오승주)|2023.03.17|CLASSIFIED|+3% of final score|
+|5 |Seungju Oh (오승주)|2023.03.17|CLASSIFIED|1 grade up|
+|6 |Seungju Oh (오승주)|2023.03.17|CLASSIFIED|drink|
+|7 |Seungju Oh (오승주)|2023.03.18|CLASSIFIED|1 grade up|
+|8 |Seungju Oh (오승주)|2023.03.19|CLASSIFIED|1 grade up|
+|9 |SeungJong Ha (하승종)|2023.03.19|CLASSIFIED|drink|
+
 ## 2023 Spring
 #### Threat Hunt
 |No|Name|Date|Vulnerability|Award|
