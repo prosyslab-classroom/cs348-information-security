@@ -9,15 +9,17 @@
 #### Threat Hunt
 |No|Name|Date|Vulnerability|Award|
 |--|----|----|-------------|-----|
-|1 |Seungju Oh (오승주)|2023.03.15|XSS|+1% of final score|
-|2 |Seungju Oh (오승주)|2023.03.15|SQL injection|+3% of final score|
-|3 |Seungju Oh (오승주)|2023.03.16|Remote code execution|1 grade up|
-|4 |Seungju Oh (오승주)|2023.03.17|Unauthorized file download|+3% of final score|
-|5 |Seungju Oh (오승주)|2023.03.17|Remote code execution|1 grade up|
-|6 |Seungju Oh (오승주)|2023.03.17|Access control bypassing	|drink|
-|7 |Seungju Oh (오승주)|2023.03.18|Account takeover|1 grade up|
-|8 |Seungju Oh (오승주)|2023.03.19|Remote code execution|1 grade up|
-|9 |SeungJong Ha (하승종)|2023.03.19|Denial-of-service|drink|
+|1 |Seungju Oh (오승주)|2025.03.15|XSS|+1% of final score|
+|2 |Seungju Oh (오승주)|2025.03.15|SQL injection|+3% of final score|
+|3 |Seungju Oh (오승주)|2025.03.16|Remote code execution|1 grade up|
+|4 |Seungju Oh (오승주)|2025.03.17|Unauthorized file download|+3% of final score|
+|5 |Seungju Oh (오승주)|2025.03.17|Remote code execution|1 grade up|
+|6 |Seungju Oh (오승주)|2025.03.17|Access control bypassing	|drink|
+|7 |Seungju Oh (오승주)|2025.03.18|Account takeover|1 grade up|
+|8 |Seungju Oh (오승주)|2025.03.19|Remote code execution|1 grade up|
+|9 |SeungJong Ha (하승종)|2025.03.19|Denial-of-service|drink|
+|10 |Seungjae Kim (김승재)|2025.03.20|XSS|+1% of final score|
+|11 |Seungju Oh (오승주)|2025.03.21|Remote code execution|1 grade up|
 
 ## 2023 Spring
 #### Threat Hunt
