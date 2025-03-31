@@ -21,6 +21,8 @@
 |10 |Seungjae Kim (김승재)|2025.03.20|XSS|+1% of final score|
 |11 |Seungju Oh (오승주)|2025.03.21|Remote code execution|1 grade up|
 
+You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/tZWDrvcCHDF8Whxt5). 
+
 ## 2023 Spring
 #### Threat Hunt
 |No|Name|Date|Vulnerability|Award|
