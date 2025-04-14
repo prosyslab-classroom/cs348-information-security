@@ -5,22 +5,23 @@ body:
         - 숙제에 관한 질문인경우, 질문 전에 반드시 README를 읽어보세요. Read the README file carefully before asking questions.
         - 지난 학기에 비슷한 질문이 없었는지 게시판을 살펴보세요. Check if there were similar questions last semester.
         - 조교는 여러분의 코드를 고쳐주지 않습니다. Note that TAs will not help with debugging your code.
+        - 한국인은 올바른 한국어로 질문을 쓰고, 아래에 영어 번역본을 첨부하세요. Write in Korean if you are Korean and attach the English translation below.
   - type: input
     id: name
     attributes:
       label: 이름 Your Name
-      description: "Provide your Korean name as well (if you are a Korean)"
+      description: "한국인은 한글과 영문 모두 작성하세요. Provide your Korean name as well (if you are Korean)"
     validations:
       required: true
   - type: textarea
     id: question
     attributes:
       label: Question
-      description: "Question here. Write in Korean if you are Korean; otherwise, write in English."
+      description: "한국인은 올바른 한국어로 쓰세요. Write in Korean if you are Korean; otherwise, write in English."
     validations:
       required: true
   - type: textarea
     id: question-trans
     attributes:
       label: Question
-      description: "English version here if you are Korean."
+      description: "한국어 질문의 영어 번역본을 쓰세요. English version here if you are Korean."
