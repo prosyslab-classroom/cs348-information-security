@@ -16,12 +16,12 @@ body:
   - type: textarea
     id: question
     attributes:
-      label: Question
+      label: 질문 Question
       description: "한국인은 올바른 한국어로 쓰세요. Write in Korean if you are Korean; otherwise, write in English."
     validations:
       required: true
   - type: textarea
     id: question-trans
     attributes:
-      label: Question
+      label: 번역본 Translated Version
       description: "한국어 질문의 영어 번역본을 쓰세요. English version here if you are Korean."
