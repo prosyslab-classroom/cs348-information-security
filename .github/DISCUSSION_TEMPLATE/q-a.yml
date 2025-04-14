@@ -19,7 +19,7 @@ body:
       description: "Question here. Write in Korean if you are Korean; otherwise, write in English."
     validations:
       required: true
-- type: textarea
+  - type: textarea
     id: question-trans
     attributes:
       label: Question
