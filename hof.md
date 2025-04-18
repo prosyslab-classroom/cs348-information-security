@@ -20,6 +20,9 @@
 |9 |SeungJong Ha (하승종)|2025.03.19|Denial-of-service|drink|
 |10 |Seungjae Kim (김승재)|2025.03.20|XSS|+1% of final score|
 |11 |Seungju Oh (오승주)|2025.03.21|Remote code execution|1 grade up|
+|12 |Seokhoon Moon (문석훈)|2025.04.06|Access control bypassing|+5% of final score|
+|13 |Seungju Oh (오승주)|2025.04.07|SQL injection|+5% of final score|
+|14 |Jeonghoo Moon (문정후)|2025.04.09|Remote code execution|1 grade up|
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/wsJubpKsnN5D6goy9). 
 
