@@ -1,10 +1,12 @@
 # CS348 Hall of Fame
 ## 2025 Spring
-#### Essay
+#### Essay 1: 사이버 보안 (Cyber Security)
 - [백도어 없는 세상을 희망하며 - 김민찬](essay/2025-KimMinchan.pdf)
 - [끊기지 않는 버그, 그리고 끊기지 않는 맞섬 - 문성민](essay/2025-MoonSungmin.pdf)
 - [보안 위협의 평범성: 아무 생각 없이 우리는 가담한다 - 빈희진](essay/2025-HeejinBin.pdf)
 - [암호화폐와 사이버 보안: Bybit 해킹을 중심으로 - 송영준](essay/2025-Youngjun_Song.pdf)
+
+#### Essay 2: AI와 SW 보안 (AI & SW Security)
 
 #### Threat Hunt
 |No|Name|Date|Vulnerability|Award|
