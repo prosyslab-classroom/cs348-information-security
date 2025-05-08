@@ -7,7 +7,7 @@
 - [암호화폐와 사이버 보안: Bybit 해킹을 중심으로 - 송영준](essay/2025-Youngjun_Song.pdf)
 
 #### Essay 2: AI와 SW 보안 (AI & SW Security)
-- [우린 도구를 따르기 시작했다 -문재영](essay/2025-JaeyoungMun.pdf)
+- [우린 도구를 따르기 시작했다 -문재영](essay/2025-JaeyoungMoon.pdf)
 - [환각적 통계 계산기 - 이호준](essay/2025-HojuneLee.pdf)
 - [효율성이 주는 착각: AI 코딩의 보안 위협과 한계 - 한승우](essay/2025-SeungwooHan.pdf)
 - [새로운 코드 학습 시스템 - 유제인](essay/2025-JeinRyu.pdf)
