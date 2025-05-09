@@ -70,6 +70,8 @@ Send an email to the instructor for approval.
 모든 프로그래밍 과제는 값 중심 프로그래밍 [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)]의 철학과 소프트웨어 개발의 기본 원칙을 따릅니다.
 이를 통해 프로그래밍의 즐거움과 고급 개발자의 소양을 함께 느끼게 됩니다.
 
+숙제에 관해 [자주 묻는 질문](FAQ.md)란도 참고하세요.
+
 This course includes written and programming assignments.
 Students will use tools described [here](TOOL.md).
 All submissions will be managed using Github.
@@ -84,6 +86,8 @@ The late homework policy is as follows:
 
 All programming assignments adhere to the philosophy of value-oriented programming [[1](http://kwangkeunyi.snu.ac.kr/~kwang/paper/maso/1.html),[2](https://csrc.kaist.ac.kr/blog/2020/08/12/바이너리-분석에-웬-fsharp/)] and the fundamental principles of software development.
 Through this approach, learners experience both the joy of programming and the refined skills of an advanced developer.
+
+Please also refer to the [Frequently Asked Questions](FAQ.md) section regarding the assignments.
 
 ## 학문 윤리 Academic Integrity
 학문 윤리를 어긴 수강생은 F를 받습니다. 자세한 사항은 [KAIST 전산학부 명예규정](https://cs.kaist.ac.kr/content?menu=309)을 참고하십시오.
