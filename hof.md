@@ -33,6 +33,7 @@
 |16 |Jeonghoo Moon (문정후)|2025.04.22|SQL injection|+3% of final score|
 |17 |Jeonghoo Moon (문정후)|2025.04.22|SQL injection|+3% of final score|
 |18 |Jeonghoo Moon (문정후)|2025.04.22|SQL injection|+3% of final score|
+|19 |Yeonjun Lee (이연준)|2025.05.21|XSS|+1% of final score|
 
 You can checkout the photos of the awarding sessions in this [photo album](https://photos.app.goo.gl/wsJubpKsnN5D6goy9). 
 
