@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 import getpass
+import requests
 import re
-
-from github import Github
 
 cols = 5
 
@@ -14,47 +13,73 @@ def print_line():
         line += ":-:|"
     return line
 
-# 2023 수정사항:
-# 1. github issue 에 그림을 올리면, 2022년처럼 *.png 로 링크가 나오지 않고, aws 에 있는 곳으로 전달됨.
-# 2. 위 이유 때문에 확장자가 없어져서, 그림에 이슈 링크를 달아놓아도 그림만 나오고 이슈로 가지 않음. 따라서 제목을 누르면 이슈로 가도록 수정했음.
+# 2025 수정사항
+# 1. GitHub Discussions API (GitHub GraphQL API)를 사용하여 Art competition 작품을 가져오도록 수정
+def get_art_competition_discussions(token):
+    headers = {"Authorization": f"Bearer {token}"}
+    query = """
+    {
+      repository(owner: "prosyslab-classroom", name: "cs348-information-security") {
+        discussions(first: 100) {
+          nodes {
+            title
+            url
+            body
+            author {
+              login
+              url
+            }
+            category {
+              name
+            }
+          }
+        }
+      }
+    }
+    """
+    response = requests.post(
+        "https://api.github.com/graphql", json={"query": query}, headers=headers
+    )
+    response.raise_for_status()
+    data = response.json()
+    all_discussions = data["data"]["repository"]["discussions"]["nodes"]
+    return [d for d in all_discussions if d["category"]["name"] == "Art competition"]
+
+
 def main():
     username = input("Username: ")
-    password = getpass.getpass()
-    g = Github(username, password)
-    org = g.get_organization("prosyslab-classroom")
-    repo = org.get_repo("cs348-information-security")
-    issues = repo.get_issues(labels=["art competition"])
+    password = getpass.getpass("Token or Password: ")
+    discussions = get_art_competition_discussions(password)
     index = 0
     line = "|"
     line_printed = False
-    for issue in issues:
-        title = issue.title.split("] ")[1]
-        issue_url = issue.url.replace("api.", "").replace("/repos/", "/")
-        # markdown
-        image_url = re.search(r"\(https://github.com/.+\)", issue.body)
-        if image_url == None:
-            # html
-            image_url = re.search(r"\"https://github.com/.+\"", issue.body)
-        image_url = image_url.group(0)[1:-1]
-        user = issue.user.login
-        user_url = f"https://github.com/{user}"
-        (gold, silver, bronze) = (False, False, False)
-        for label in issue.labels:
-            if label.name == "gold":
-                gold = True
-            elif label.name == "silver":
-                silver = True
-            elif label.name == "bronze":
-                bronze = True
-        medal = ":1st_place_medal:" if gold else ":2nd_place_medal:" if silver else ":3rd_place_medal:" if bronze else ""
-        line += f"[![{title}]({image_url})]({issue_url})[{title}]({issue_url}) {medal}<br>by [{user}]({user_url})|"
-        index += 1
-        if index % cols == 0:
-            if not line_printed:
-                line += "\n"
-                line_printed = True
-                line += print_line()
-            line += "\n|"
+
+    for d in discussions:
+      title = d["title"]
+      discussion_url = d["url"]
+      body = d["body"]
+      user = d["author"]["login"]
+      user_url = d["author"]["url"]
+
+      image_url_match = re.search(r"\(https://github.com/.+\)", body)
+      if image_url_match is None:
+          image_url_match = re.search(r"\"https://github.com/.+\"", body)
+
+      if image_url_match:
+          image_url = image_url_match.group(0)[1:-1]
+          content = f"[![{title}]({image_url})]({discussion_url})[{title}]({discussion_url})<br>by [{user}]({user_url})"
+      else: # 시와 같이 이미지가 없는 경우, 이미지 없이 표시
+          content = f"[{title}]({discussion_url})<br>by [{user}]({user_url})"
+
+      line += content + "|"
+      index += 1
+      if index % cols == 0:
+          if not line_printed:
+              line += "\n"
+              line_printed = True
+              line += print_line()
+          line += "\n|"
+
     print(line)
 
 
