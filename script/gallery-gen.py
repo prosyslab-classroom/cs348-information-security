@@ -15,7 +15,7 @@ def print_line():
 
 # 2025 수정사항
 # 1. GitHub Discussions API (GitHub GraphQL API)를 사용하여 Art competition 작품을 가져오도록 수정
-def get_art_competition_discussions(token):
+def get_art_competition_discussions(token, year):
     headers = {"Authorization": f"Bearer {token}"}
     query = """
     {
@@ -25,6 +25,7 @@ def get_art_competition_discussions(token):
             title
             url
             body
+            publishedAt
             author {
               login
               url
@@ -43,13 +44,18 @@ def get_art_competition_discussions(token):
     response.raise_for_status()
     data = response.json()
     all_discussions = data["data"]["repository"]["discussions"]["nodes"]
-    return [d for d in all_discussions if d["category"]["name"] == "Art competition"]
+    return [
+        d for d in all_discussions
+        if d["category"]["name"] == "Art competition" 
+        and d["publishedAt"].startswith(year)
+    ]
 
 
 def main():
     username = input("Username: ")
     password = getpass.getpass("Token or Password: ")
-    discussions = get_art_competition_discussions(password)
+    discussions = get_art_competition_discussions(password, "2025")
+    # 특정 년도 작품만 가져오도록 수정
     index = 0
     line = "|"
     line_printed = False
