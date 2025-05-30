@@ -33,6 +33,11 @@ def get_art_competition_discussions(token, year):
             category {
               name
             }
+            labels(first: 10) {
+              nodes {
+                name
+              }
+            }
           }
         }
       }
@@ -66,6 +71,14 @@ def main():
       body = d["body"]
       user = d["author"]["login"]
       user_url = d["author"]["url"]
+      labels = [label["name"].lower() for label in d.get("labels", {}).get("nodes", [])]
+      medal = ""
+      if "gold" in labels:
+          medal = ":1st_place_medal:"
+      elif "silver" in labels:
+          medal = ":2nd_place_medal:"
+      elif "bronze" in labels:
+          medal = ":3rd_place_medal:"
 
       image_url_match = re.search(r"\(https://github.com/.+\)", body)
       if image_url_match is None:
@@ -73,9 +86,9 @@ def main():
 
       if image_url_match:
           image_url = image_url_match.group(0)[1:-1]
-          content = f"[![{title}]({image_url})]({discussion_url})[{title}]({discussion_url})<br>by [{user}]({user_url})"
+          content = f"[![{title}]({image_url})]({discussion_url})[{title}]({discussion_url}) {medal}<br>by [{user}]({user_url})"
       else: # 시와 같이 이미지가 없는 경우, 이미지 없이 표시
-          content = f"[{title}]({discussion_url})<br>by [{user}]({user_url})"
+          content = f"[{title}]({discussion_url}) {medal}<br>by [{user}]({user_url})"
 
       line += content + "|"
       index += 1
