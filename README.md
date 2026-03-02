@@ -141,11 +141,12 @@ A large part of the slides is based on the lecture notes of Prof. Min Suk Kang a
 - [Automated Reasoning @ Amazon](https://www.amazon.science/blog/?q=&f0=0000017d-6ba3-ddaa-a97d-efa3e2ed0000&s=0&expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C)
 - [BugSynth](https://prosys.kaist.ac.kr/bugsynth/)
 - [Recursion World](http://recursion.kaist.ac.kr)
-
+- [The Internet Was Weeks Away From Disaster and No One Knew](https://www.youtube.com/watch?v=aoag03mSuXQ)
+  
 #### 암호 Cryptography
 - [Formal Verification Makes RSA Faster and Faster to Deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
 - [현대암호학의 태동 1: 고전암호학](https://horizon.kias.re.kr/30970/)
-  
+
 #### 안전한 프로그래밍 언어 Secure Programming Languages
 - [Memory Safety](https://www.chromium.org/Home/chromium-security/memory-safety/), Google
 - [OCaml: Memory Safety and Beyond](https://tarides.com/blog/2023-12-14-ocaml-memory-safety-and-beyond/), Tardes 2023
